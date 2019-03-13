@@ -1,4 +1,7 @@
-var photo1 = document.querySelector('.photo1');
+function getElement(elem) {
+    return document.querySelector(elem);
+}
+var photo1 = getElement('.photo1');
 console.log(photo1);
 
 photo1.addEventListener('click',function(){

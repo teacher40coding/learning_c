@@ -1,0 +1,35 @@
+h1{
+    color:green;
+    background-color: red;
+    text-align: center;
+}
+h2{
+    color:rgb(23, 47, 199);
+    background-color: 	#7FFFD4;
+    text-align: left;
+}
+h3{
+    font-family: 'Srisakdi', cursive;
+}
+header img{
+    display:block;
+    margin: auto;
+}
+
+
+section{
+    background-color: rgb(255,198,198);
+    border: red 5px dotted;
+}
+.粉綠色{
+    background-color:rgb(206,255,176); 
+}
+
+.photo1{
+    width: 500px;
+    height: 500px;
+    background-image:url("https://dm2306files.storage.live.com/y4mJHRpwBJdGxFzK1yGPkX_9moeSbsJ37LuA7OBn2tVaZXMlSwveH_uBS-fGItMJzl1c8vhkBja81MDT8lMrmFseWU-FM-SbxBdLgopwxfhFlx5qvX-m4Hk0HvBUu2_A5IsbQhWzNVQ_N_Dfcr-oQs-Ephrbb9g5CRqD0a74UDrZ4Sf40bjSw02us2S-XUZsYvs6px6jOtzEMetN6cuyRz8Ow/IMG_20190227_192128.jpg?psid=1&width=668&height=501");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}

@@ -93,7 +93,7 @@ p {
 .photo1{
   height: 200px;
   width: 200px;
-  background-image: url(https://dm2306files.storage.live.com/y4mJHRpwBJdGxFzK1yGPkX_9moeSbsJ37LuA7OBn2tVaZXMlSwveH_uBS-fGItMJzl1c8vhkBja81MDT8lMrmFseWU-FM-SbxBdLgopwxfhFlx5qvX-m4Hk0HvBUu2_A5IsbQhWzNVQ_N_Dfcr-oQs-Ephrbb9g5CRqD0a74UDrZ4Sf40bjSw02us2S-XUZsYvs6px6jOtzEMetN6cuyRz8Ow/IMG_20190227_192128.jpg?psid=1&width=259&height=194);
+  background-image: url('../img/IMG_20190227_192128.jpg');
   background-size: cover;
   background-position:center;
 }
